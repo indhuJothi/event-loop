@@ -5,7 +5,7 @@ new Promise((resolve,reject)=>{
 }).then( 
     res=>console.log(res)
 )
-            };
+};
 const hi =()=>console.log("I'm Third")
 const makepromise= ()=>{
   
